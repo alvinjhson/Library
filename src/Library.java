@@ -21,6 +21,11 @@ Scanner sc = new Scanner(System.in);
         books.add(newBooks);
         System.out.println(newBooks);
     }
+    //okey
+    public void helloThere(){
+        System.out.println("Hello there!!!!");
+    }
+
     public void searchForBook() {
         boolean bookFound = false;
         System.out.println("Which book are you looking for?");

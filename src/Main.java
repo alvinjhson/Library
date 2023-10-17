@@ -8,6 +8,7 @@ public class Main {
 
         ArrayList<Book> boks = new ArrayList<>();
         String meny = "";
+        //Just testing how branch works
 
 
         while (!meny.equals("5")) {

@@ -13,6 +13,7 @@ public class Book {
         this.available=true;
 
     }
+    // hello
 
     public void setYear(String year) {
         this.year = year;
@@ -30,17 +31,6 @@ public class Book {
 
         this.edition = edition;
     }
-
-    // public Book() {
-
-    //     this.available = true;
-    //}
-
-    //public boolean isAvailable() {
-    //   return available = true;
-    // }
-
-
     public boolean isAvailable() {
         return available;
     }
